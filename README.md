@@ -34,7 +34,7 @@ By analyzing user data, it helps individuals understand and manage their digital
 
 ## ▶️ Usage
 
-1. Open the Flask app in your browser.
+1. Open the Streamlit app in your browser.
 2. Input details such as screen time, app usage patterns, and self-reported habits.
 3. Click the **"Predict"** button to get the predicted level of smartphone addiction.
 
